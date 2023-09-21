@@ -1,2 +1,2 @@
-# Data-Analysis
-This repository is created for data analysis projects
+# Data-Analysis- Python
+This repository is created for data analysis projects using Python
