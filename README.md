@@ -1,4 +1,5 @@
-# Data-Analysis- Python
+# Data-Analysis using Python
+
 This repository is created for data analysis projects using Python
 
 **Project 1 : Super Store Sales Analysis**
