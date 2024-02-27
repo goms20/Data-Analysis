@@ -16,3 +16,8 @@ The data is available at Kaggle. The datasets include data from women with sever
 
 
 The data set was taken from kaggle.Recognized fraudulent credit card transactions.
+
+
+**Project 4 : Cohort analysis**
+
+The data set was taken from kaggle. Created two heatmaps, one to plot the actual number of users and the other to visualize the entire dataset as percentages along with the user retention rates. 
